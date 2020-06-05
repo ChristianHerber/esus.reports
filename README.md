@@ -23,5 +23,5 @@
 - SQL
 
 ## Licença
-GNU GPL Licence
+GNU GENERAL PUBLIC LICENSE
 Copyright ©️ 2020 - E-sus Reports
